@@ -1,2 +1,118 @@
 # rickylperry.github.io
-website
+
+<!doctype html>
+<html lang="en"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260624-03-b2656cb"}');</script><script src="/_sdk/558340785a07a8b2.telemetry_sdk.js" integrity="sha512-w6huTWybcELc18WJb0w+HZlX471QfzMUh7gbslB6onKoaFEogFDmOPMV5FcEo5/Ws8CyGWJgk7MOklfxKnVegA=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WV Wedding Officiant</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&amp;family=Raleway:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <style>
+        body { font-family: 'Alegreya', serif; }
+        .heading-font { font-family: 'Raleway', sans-serif; }
+        .hero-overlay { background: linear-gradient(to bottom, rgba(30,30,30,0.3), rgba(30,30,30,0.6)); }
+    </style>
+  <script src="/_sdk/458114e02319f6fb.data_sdk.js" type="text/javascript" integrity="sha512-MqxhlifLEIhxYPJAUg/WtiC5CY0R45RHAAwK31m2gePcEv6/zWdaNb/OHXNXZYtkB4TsvIOYMOacwywX7AXC3g=="></script>
+  <script src="/_sdk/c2d1d5313c51ffe1.resizing_sdk.js" type="text/javascript" integrity="sha512-qQAMemJMRFZxVvjytpvZJuJZ53CEj6hm6koWfforoCmGBxf4dwDWZGux307fbsvtDxdw8x4TQSA+OoNoE6FzlQ=="></script>
+ </head>
+ <body data-template-id="__page-root" class="w-full" style="background: rgb(253, 250, 246);">
+  <header class="fixed top-0 w-full z-50 bg-white/90 backdrop-blur shadow-sm">
+   <nav class="max-w-6xl mx-auto flex items-center justify-between px-6 py-4"><a data-template-id="nav-brand" class="canva-text heading-font text-xl font-bold tracking-wide" style="color: rgb(61, 50, 50); font-weight: 700; font-style: normal; font-size: 17px;">Mountain Vows WV</a>
+    <div class="hidden md:flex gap-8"><a href="#about" data-template-id="nav-about" class="canva-link heading-font text-sm font-medium hover:opacity-70 transition" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">About</a> <a href="#services" data-template-id="nav-services" class="canva-link heading-font text-sm font-medium hover:opacity-70 transition" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Services</a> <a href="#testimonials" data-template-id="nav-testimonials" class="canva-link heading-font text-sm font-medium hover:opacity-70 transition" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Kind Words</a> <a href="#contact" data-template-id="nav-contact" class="canva-link heading-font text-sm font-medium hover:opacity-70 transition" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Contact</a>
+    </div>
+   </nav>
+  </header>
+  <main><!-- Hero -->
+   <section class="relative w-full" style="height: calc(85 * min(var(--vh, 1vh), 1vh))"><img data-template-id="hero-img" class="canva-image absolute inset-0 w-full h-full object-cover" loading="lazy" src="https://images.pexels.com/photos/16625677/pexels-photo-16625677.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1920" alt="A romantic wedding portrait set against the sunset in mountains">
+    <div class="hero-overlay absolute inset-0 flex items-center justify-center text-center px-6">
+     <div class="max-w-2xl">
+      <h1 data-template-id="hero-title" class="canva-text heading-font text-4xl md:text-6xl font-bold mb-4 drop-shadow-lg" style="color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 34px;">Love Is Love in the Mountain State</h1>
+      <p data-template-id="hero-subtitle" class="canva-text text-lg md:text-xl mb-8 drop-shadow" style="color: rgb(245, 240, 235); font-weight: 400; font-style: normal; font-size: 20px;">Inclusive, heartfelt wedding ceremonies across West Virginia — for every couple, every love story.</p><a href="#contact" data-template-id="hero-cta" class="canva-button inline-block heading-font px-8 py-3 rounded-full font-semibold text-lg shadow-lg hover:scale-105 transition-transform" style="background: rgb(196, 93, 110); color: rgb(255, 255, 255); font-weight: 600; font-style: normal; font-size: 17px;">Let's Plan Your Day</a>
+     </div>
+    </div>
+   </section><!-- About -->
+   <section id="about" class="py-20 px-6">
+    <div class="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center"><img data-template-id="about-img" class="canva-image w-full h-80 object-cover rounded-2xl shadow-xl" loading="lazy" src="https://images.pexels.com/photos/4181659/pexels-photo-4181659.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=800" alt="Cheerful officiant giving a speech surrounded by people">
+     <div>
+      <h2 data-template-id="about-heading" class="canva-text heading-font font-bold mb-4" style="color: rgb(61, 50, 50); font-weight: 700; font-style: normal; font-size: 26px;">Your Day, Your Way</h2>
+      <p data-template-id="about-text" class="canva-text leading-relaxed mb-4" style="color: rgb(74, 64, 64); font-weight: 400; font-style: normal; font-size: 17px;">I'm a licensed wedding officiant proudly serving all couples throughout West Virginia. Whether you're exchanging vows on a misty mountaintop, in a cozy cabin, or at your favorite local spot — I'm here to craft a ceremony as unique as your love.</p>
+      <p data-template-id="about-text-2" class="canva-text leading-relaxed" style="color: rgb(74, 64, 64); font-weight: 400; font-style: normal; font-size: 17px;">Every love story deserves to be honored with joy, dignity, and celebration. I welcome couples of all orientations, gender identities, and backgrounds with open arms and a full heart.</p>
+     </div>
+    </div>
+   </section><!-- Services -->
+   <section id="services" data-template-id="services-bg" class="canva-section py-20 px-6" style="background: rgb(240, 235, 228);">
+    <div class="max-w-6xl mx-auto">
+     <h2 data-template-id="services-heading" class="canva-text heading-font font-bold text-center mb-12" style="color: rgb(61, 50, 50); font-weight: 700; font-style: normal; font-size: 26px;">What I Offer</h2>
+     <div class="grid md:grid-cols-3 gap-8">
+      <div data-template-id="service-1" class="canva-card rounded-2xl p-8 text-center shadow-md" style="background: rgb(255, 255, 255);">
+       <div class="mb-4 flex justify-center">
+        <i data-lucide="heart" class="w-10 h-10 text-rose-400"></i>
+       </div>
+       <h3 data-template-id="service-1-title" class="canva-text heading-font font-semibold mb-2" style="color: rgb(61, 50, 50); font-weight: 600; font-style: normal; font-size: 20px;">Elopements &amp; Intimate Ceremonies</h3>
+       <p data-template-id="service-1-desc" class="canva-text" style="color: rgb(90, 80, 80); font-weight: 400; font-style: normal; font-size: 17px;">Just the two of you (plus a witness or two) in a stunning WV location. Simple, beautiful, and deeply personal.</p>
+      </div>
+      <div data-template-id="service-2" class="canva-card rounded-2xl p-8 text-center shadow-md" style="background: rgb(255, 255, 255);">
+       <div class="mb-4 flex justify-center">
+        <i data-lucide="mountain" class="w-10 h-10 text-emerald-500"></i>
+       </div>
+       <h3 data-template-id="service-2-title" class="canva-text heading-font font-semibold mb-2" style="color: rgb(61, 50, 50); font-weight: 600; font-style: normal; font-size: 20px;">Outdoor &amp; Destination Weddings</h3>
+       <p data-template-id="service-2-desc" class="canva-text" style="color: rgb(90, 80, 80); font-weight: 400; font-style: normal; font-size: 17px;">From New River Gorge to Canaan Valley — I travel throughout the state to officiate at your dream venue.</p>
+      </div>
+      <div data-template-id="service-3" class="canva-card rounded-2xl p-8 text-center shadow-md" style="background: rgb(255, 255, 255);">
+       <div class="mb-4 flex justify-center">
+        <i data-lucide="pen-tool" class="w-10 h-10 text-amber-500"></i>
+       </div>
+       <h3 data-template-id="service-3-title" class="canva-text heading-font font-semibold mb-2" style="color: rgb(61, 50, 50); font-weight: 600; font-style: normal; font-size: 20px;">Custom Ceremony Writing</h3>
+       <p data-template-id="service-3-desc" class="canva-text" style="color: rgb(90, 80, 80); font-weight: 400; font-style: normal; font-size: 17px;">Together we'll write vows and a ceremony script that tells your story authentically and beautifully.</p>
+      </div>
+     </div>
+    </div>
+   </section><!-- Testimonials -->
+   <section id="testimonials" class="py-20 px-6">
+    <div class="max-w-4xl mx-auto">
+     <h2 data-template-id="testimonials-heading" class="canva-text heading-font font-bold text-center mb-12" style="color: rgb(61, 50, 50); font-weight: 700; font-style: normal; font-size: 26px;">Kind Words from Couples</h2>
+     <div class="space-y-8">
+      <blockquote data-template-id="testimonial-1" class="canva-card rounded-xl p-6 shadow-sm border-l-4 border-rose-300" style="background: rgb(255, 251, 247);">
+       <p data-template-id="testimonial-1-text" class="canva-text italic mb-2" style="color: rgb(74, 64, 64); font-weight: 400; font-style: normal; font-size: 17px;">"We felt so seen and celebrated. The ceremony was everything we dreamed of and more — personal, warm, and full of happy tears."</p><cite data-template-id="testimonial-1-author" class="canva-text font-semibold not-italic" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">— Sarah &amp; Jamie, Charleston</cite>
+      </blockquote>
+      <blockquote data-template-id="testimonial-2" class="canva-card rounded-xl p-6 shadow-sm border-l-4 border-emerald-300" style="background: rgb(255, 251, 247);">
+       <p data-template-id="testimonial-2-text" class="canva-text italic mb-2" style="color: rgb(74, 64, 64); font-weight: 400; font-style: normal; font-size: 17px;">"As a same-sex couple, finding an officiant who truly embraced us meant the world. Our mountaintop ceremony was pure magic."</p><cite data-template-id="testimonial-2-author" class="canva-text font-semibold not-italic" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">— Marcus &amp; David, Fayetteville</cite>
+      </blockquote>
+      <blockquote data-template-id="testimonial-3" class="canva-card rounded-xl p-6 shadow-sm border-l-4 border-amber-300" style="background: rgb(255, 251, 247);">
+       <p data-template-id="testimonial-3-text" class="canva-text italic mb-2" style="color: rgb(74, 64, 64); font-weight: 400; font-style: normal; font-size: 17px;">"From our first meeting to the last word of the ceremony, we felt like family. Couldn't have asked for a better experience."</p><cite data-template-id="testimonial-3-author" class="canva-text font-semibold not-italic" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">— Ren &amp; Taylor, Morgantown</cite>
+      </blockquote>
+     </div>
+    </div>
+   </section><!-- Contact -->
+   <section id="contact" class="relative py-20 px-6"><img data-template-id="scenery-img" class="canva-image absolute inset-0 w-full h-full object-cover opacity-20" loading="lazy" src="https://images.pexels.com/photos/1368384/pexels-photo-1368384.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1920" alt="Peaceful early morning view of misty hills and lush forests">
+    <div class="relative max-w-xl mx-auto">
+     <h2 data-template-id="contact-heading" class="canva-text heading-font font-bold text-center mb-4" style="color: rgb(61, 50, 50); font-weight: 700; font-style: normal; font-size: 26px;">Let's Talk About Your Day</h2>
+     <p data-template-id="contact-subtitle" class="canva-text text-center mb-8" style="color: rgb(90, 80, 80); font-weight: 400; font-style: normal; font-size: 17px;">Tell me a little about yourselves and the celebration you're envisioning. I'd love to hear from you!</p>
+     <form id="contact-form" class="space-y-4">
+      <div><label data-template-id="label-name" class="canva-text block mb-1 font-medium" for="name-input" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Your Names</label> <input id="name-input" type="text" required="" class="w-full border rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-rose-300">
+      </div>
+      <div><label data-template-id="label-email" class="canva-text block mb-1 font-medium" for="email-input" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Email Address</label> <input id="email-input" type="email" required="" class="w-full border rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-rose-300">
+      </div>
+      <div><label data-template-id="label-message" class="canva-text block mb-1 font-medium" for="message-input" style="color: rgb(61, 50, 50); font-weight: 400; font-style: normal; font-size: 17px;">Tell Me About Your Vision</label> <textarea id="message-input" rows="4" required="" class="w-full border rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-rose-300"></textarea>
+      </div><button data-template-id="contact-submit" type="submit" class="canva-button heading-font w-full py-3 rounded-full font-semibold text-lg hover:scale-[1.02] transition-transform" style="background: rgb(196, 93, 110); color: rgb(255, 255, 255); font-weight: 600; font-style: normal; font-size: 17px;">Send Message</button>
+     </form>
+     <p id="success-msg" class="hidden text-center mt-4 text-emerald-700 font-semibold">Thank you! I'll be in touch soon. 💐</p>
+    </div>
+   </section>
+  </main>
+  <footer data-template-id="footer-section" class="canva-footer py-8 px-6 text-center" style="background: rgb(61, 50, 50);">
+   <p data-template-id="footer-text" class="canva-text" style="color: rgb(232, 224, 216); font-weight: 400; font-style: normal; font-size: 17px;">© 2026 Mountain Vows WV · All love welcome here 🌈</p>
+  </footer>
+  <script src="/_sdk/ba7a87cbf0298387.editing_sdk.js" integrity="sha512-Tj5coTlt0zVGjhUTG6We0NjzvddIVl9nrFVeLejaQFP8g9Kb83FahoAtAQLehYaTUxeN5sV/r4RJs7ytEpNoVQ=="></script>
+  <script>
+        lucide.createIcons();
+        document.getElementById('contact-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            this.classList.add('hidden');
+            document.getElementById('success-msg').classList.remove('hidden');
+        });
+    </script>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a10c36ade07c082f',t:'MTc4MjMwOTE1My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+</body></html>
+.md
